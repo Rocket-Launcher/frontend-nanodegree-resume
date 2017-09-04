@@ -39,7 +39,7 @@ var projects = {
                 "46mmSocket": ["46mm socket", "Powerbuilt", 12.99, "Lifetime", "Wishlist"]
             },
             "misc": {
-                "bleederScrew": ["Brass Bleeder SCrew", "Tulga Fifth Wheel Co", 9.95, "Limited Lifetime", "Wishlist"],
+                "bleederScrew": ["Brass Bleeder Screw", "Tulga Fifth Wheel Co", 9.95, "Limited Lifetime", "Wishlist"],
                 "hoodShocks": ["Hood Shocks", "BOXI", 16.99, "Limited Lifetime", "Wishlist"]
             }
         }],
