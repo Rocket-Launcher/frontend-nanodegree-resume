@@ -28,14 +28,14 @@ var car = {
         "vin": "WBACD3323TAV18003",
         "mileage": 230000
     }
-    {
+  /*  {
         "make": "Pontiac",
         "model": "Firebird",
         "year": 1998,
         "engine": "3.8L",
         "vin": "2G2FS22KXW2232390",
         "mileage": 286548
-    }
+    } */
   ]
 }
 
